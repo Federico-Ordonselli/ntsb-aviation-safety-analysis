@@ -104,4 +104,4 @@ The dashboard is laid out as a single page with a top-down narrative.
 ## About me
 
 **Federico Ordonselli** — aspiring data analyst with a background in aviation security at Rome Fiumicino Airport.
-🔗 [LinkedIn](INSERISCI_QUI_IL_TUO_LINK_LINKEDIN)
+🔗 [LinkedIn](https://www.linkedin.com/in/federico-ordonselli-aa7363226)
